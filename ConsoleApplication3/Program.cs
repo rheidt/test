@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 using System.Configuration;
 using System.ServiceModel.Configuration;
 using System.ServiceModel.Discovery;
-using Medicity.RecordManagement;
 
 namespace EndpointDiscoveryTooly
 {
